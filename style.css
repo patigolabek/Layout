@@ -74,11 +74,13 @@ body{
 h1{
   font-size: 3rem;
   padding: 30px;
+  color: whitesmoke;
 }
 
 p{
   font-size: 1rem;
   padding-bottom: 30px;
+  color: whitesmoke;
 }
 
 .button{
